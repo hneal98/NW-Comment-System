@@ -1,6 +1,6 @@
 [build]
 
-  base = "."
+  base = "nealsws/"
   functions = "netlify/functions"
 
 [[headers]]
